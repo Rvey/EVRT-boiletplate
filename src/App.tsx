@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import Home from './components/Pages/Home/home';
 import Nav from './components/Navigation/nav';
 function App() {
