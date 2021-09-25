@@ -1,16 +1,13 @@
-import React from 'react';
-import Home from './components/Pages/Home/home';
-import Nav from './components/Navigation/nav';
-function App() {
-	console.log(window.ipcRenderer);
-	
+import React from "react";
 
-	return (
-<div className="text-center text-red-400 ">
-	haha
-	<Nav />
-	<Home />
-</div>)
+function App() {
+  console.log(window.ipcRenderer);
+
+  return (
+    <div>
+      
+    </div>
+  );
 }
 
 export default App;

@@ -1,0 +1,1 @@
+api-config consist of file containing the api endpoints. This folder doesn't have any logic. This helps having a single place for all api url end points and not to be scattered around in components, mostly inside useEffects.
