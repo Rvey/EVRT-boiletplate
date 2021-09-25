@@ -1,4 +1,4 @@
-# Vite + React + Typescript + Electron - Starter
+# Vite + React + Typescript + Electron + folder structure 
 
 
 
