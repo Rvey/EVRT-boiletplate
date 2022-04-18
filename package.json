@@ -1,19 +1,19 @@
 {
-  "name": "alpha",
+  "name": "evrt",
   "version": "0.5.0",
   "license": "MIT",
   "main": "main/index.js",
   "author": {
     "name": "Rvey"
   },
-  "description": "alpha",
+  "description": "electron vite tailwind react typescript boilerplate",
   "keywords": [
     "vite"
   ],
   "repository": {
-    "url": ""
+    "url": "https://github.com/Rvey/EVRT-boiletplate"
   },
-  "productName": "Alpha",
+  "productName": "evrt",
   "scripts": {
     "dev": "concurrently \"yarn dev:vite\" \" yarn dev:electron\"",
     "dev:vite": "vite",
